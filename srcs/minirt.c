@@ -79,6 +79,7 @@ void		read_file(t_minirt *data)
 	int8_t		rc;
 	t_status	flg;
 
+	flg = SUCCESS;
 	rc = 1;
 	while (rc)
 	{
